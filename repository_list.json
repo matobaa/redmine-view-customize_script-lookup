@@ -1,10 +1,10 @@
 [
     {
         "name": "onozaty_scripts", 
-        "url": "https://github.com/matobaa/redmine-view-customize_script-lookup/blob/master/onozaty_scripts.json"
+        "url": "https://github.com/matobaa/redmine-view-customize_script-lookup/blob/2bea43eecb364f9cbc38c775a928d4de39f614ab/onozaty_scripts.json"
     },
     {
         "name": "redmine_ld_rize", 
-        "url": "https://github.com/matobaa/redmine-view-customize_script-lookup/blob/master/ld_rize.json"
+        "url": "https://github.com/matobaa/redmine-view-customize_script-lookup/blob/2bea43eecb364f9cbc38c775a928d4de39f614ab/ld_rize.json"
     }
 ]
