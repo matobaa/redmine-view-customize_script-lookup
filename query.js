@@ -32,7 +32,7 @@ retrieve = function (event) {
 }
 
 view_customize_query = function () {
-  url = $('#view_customize_query-url').attr('value');
+  url = $('#view_customize_query-url').val();
   get_json(url)
     .then(function (repos) {
       JSON.parse(repos).forEach(function (repo) {
