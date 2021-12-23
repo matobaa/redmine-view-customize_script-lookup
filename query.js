@@ -59,7 +59,7 @@ $('#view_customize-form').after(
   $('<br/>'),
   $('<input>', {
     id: "view_customize_query-url", size: 100,
-    value: "https://github.com/matobaa/redmine-view-customize_script-lookup/blob/2bea43eecb364f9cbc38c775a928d4de39f614ab/repository_list.json"
+    value: "https://github.com/matobaa/redmine-view-customize_script-lookup/blob/4cc2ee06aa30d92f1b2739bf9e813a185e955304/repository_list.json"
   }),
   $('<button>', { id: "view_customize-query", text: "query" }).on("click", view_customize_query),
   $('<table id="view_customize-query_result" class="list"><tr><th>id</th><th>name</th><th>url</th><th></th></tr></table>')
